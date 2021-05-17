@@ -1,0 +1,147 @@
+body {
+    padding: 0px;
+    background-color: #AAFFE5;
+}
+#topbar {
+    background-color: #855AA5;
+    min-height: 40px;
+    font-family: sans-serif;
+}
+
+#secondtopbar {
+    background-color: #8C1A6A;
+    min-height: 100px;
+    padding-top: 12px;
+}
+
+.leftMargin {
+    margin-left: 6px;
+}
+
+#navbar_first_text {
+    font-size: 30px;
+    color: whitesmoke;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+}
+
+.navbar_items {
+    color: #C0C0C0; 
+    font-size: large;
+}
+
+.panel-body {
+    background:#FFF;
+}
+
+.panelTopPadding {
+    padding-top: 15px;
+}
+
+.panelLeftPadding {
+    padding-left: 15px;
+}
+
+.panelBottomPadding {
+    padding-bottom: 15px;
+}
+
+#panelTopLessPadding {
+    padding-top: 8px;
+}
+
+#image-caption {
+    font-size: x-large; 
+    color: #484C51;
+}
+
+.btn-group.special {
+    display: flex;
+  }
+  
+.special .btn {
+    flex: 1;
+    border: 1px solid #C0C0C0;
+}
+
+#tag-custom-padding {
+    padding-top: 8px;
+}
+
+#image-width {
+    width: 100%;
+}
+
+.custom-tag {
+    background-color: #8C1A6A;
+    color: white;
+    padding: 4px;
+    margin: 2px;
+}
+
+.custom-label {
+    display: inline;
+    padding-bottom: 40px;
+    border-bottom: 1px solid white;
+}
+
+.caption-color {
+    color: #484C51;
+}
+
+.custom-label-last {
+    display: inline;
+}
+
+.image-gallary {
+    width:70%; 
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    padding-top: 20px;
+}
+
+.custom-border {
+    border: 1px solid #C0C0C0;
+}
+
+.gallary-buttons-purple {
+    background-color: #8C1A6A;
+}
+
+.gallary-buttons-blue {
+    background-color: #6132cd;
+}
+
+.gallary-buttons-image {
+    margin-top: 2px;
+}
+
+h1, h3 {
+    color: #484C51;
+    font-weight: bold;
+}
+
+.gallary-buttons-green {
+    background-color: #5AFF15;
+}
+
+.gallary-buttons-dark-blue {
+    background-color: #2900ff;
+}
+
+.bg-custom {
+    background-color: #8C1A6A;
+}
+
+.gallary-buttons-pink {
+    background-color: #e11e7b;
+}
+
+.gallary-buttons-light-purple {
+    background-color: #855AA5;
+}
+
+.footer-time {
+    font-size: 14px;
+}
